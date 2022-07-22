@@ -1,7 +1,7 @@
 from setuptools import setup
 
 setup(
-  name="Deep-Learning-Library",
+  name="DeepLearningLibrary",
   author="Kieran Pichai",
   author_email="lifeofme06@gmail.com",
   license="MIT license",
